@@ -64,7 +64,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/muhammad-husnain-255070248/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Muhammad-Husnain07-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:Muhammad-Husnain07-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -72,7 +72,7 @@
 
 <li>
 <a href="mailto:khanking.1220@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Muhammad-Husnain07-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:Muhammad-Husnain07-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
